@@ -1,0 +1,17 @@
+
+/* this would put input elements on their own line:
+/* input {
+    display: block;
+} */
+
+table tr td:first-child {
+    text-align: right;
+}
+
+/* this is a CSS class, requires you to put class attribute as "input-label" in td in HTML */
+/* .input-label {
+    text-align: right;
+} */
+
+
+
